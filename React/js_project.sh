@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Make the script executable and run it
-# chmod +x project.sh
-# ./project.sh
+# chmod +x js_project.sh
+# ./js_project.sh
 
 # Define the output file
 output_file="project.md"
+
+# Define the project name
+project_name="Reactstrap App"
 
 # Define the programming language for syntax highlighting
 code_language="javascript"
@@ -19,7 +22,7 @@ directories=("src")
 
 # Add a header to the output file
 
-echo -e "\n## Nightclub Capacity Reactstrap App Source Code\n" >> "$output_file"
+echo -e "# "$project_name" Source Code\n" >> "$output_file"
 
 # Loop through files in the specified directories only
 for file in $(find "${directories[@]}" -type f ! -name "project.md"); do
