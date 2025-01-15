@@ -1,14 +1,5 @@
 # Git Branching
 
-## Configure User
-
-Set the Git username and email for the current repository.
-
-```bash
-git config user.name "AJ Barea"
-git config user.email "ajbareaa@gmail.com"
-```
-
 ## Delete All Local Branches
 
 Delete all local branches except the main branch (may need to change `main` to `master` based on your repository).
