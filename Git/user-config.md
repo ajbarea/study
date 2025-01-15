@@ -1,4 +1,4 @@
-# DConfigure git with user for commits
+# Configure git with user for commits
 
 ```bash
 git config --global user.name "AJ Barea"
