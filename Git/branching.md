@@ -1,4 +1,4 @@
-# Git Config and Branching
+# Git Branching
 
 ## Configure User
 
