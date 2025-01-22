@@ -5,8 +5,8 @@
 Set the Git username and email for the current repository.
 
 ```bash
-git config user.name "AJ Barea"
-git config user.email "ajbareaa@gmail.com"
+git config --global user.name "AJ Barea"
+git config --global user.email "ajbareaa@gmail.com"
 ```
 
 ## Delete All Local Branches

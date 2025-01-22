@@ -10,6 +10,6 @@ This repository contains various study notes on different topics.
 - [Java](./Java/JavaUtil.md)
 - [Comparator vs. Comparable in Java](./Java/Comparable.md)
 - [Therapy](./Health/therapy.md)
-- [Git](./Git/branching.md)
+- [Git](./Git/git.md)
 - [GitLab CI/CD](./DevOps/gitlab-ci.md)
 - [GitHub Actions](./DevOps/github-actions.md)
